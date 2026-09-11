@@ -1,4 +1,5 @@
-## Hi there 👋
+
+[→リポジトリ一覧(非アーカイブ)](https://github.com/doob-w?tab=repositories&q=archived%3Afalse)
 
 <!--
 **doob-w/doob-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
